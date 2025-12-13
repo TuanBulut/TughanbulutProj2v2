@@ -82,10 +82,3 @@ The application uses an in-memory H2 database. The data is volatile and will be 
 The H2 database console is enabled and can be accessed to view the database schema and data.
 
 *   **H2 Console URL:** [http://localhost:8080/console/](http://localhost:8080/console/)
-
-Use the following settings to connect:
-
-*   **Driver Class:** `org.h2.Driver`
-*   **JDBC URL:** `jdbc:h2:mem:testdb`
-*   **User Name:** `sa`
-*   **Password:** (leave blank)
