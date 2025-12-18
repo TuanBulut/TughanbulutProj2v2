@@ -8,7 +8,7 @@ This repository contains a Spring Boot application that provides a RESTful API f
 
 | API Documentation (Swagger UI) | Live Database (H2 Console) |
 | :---: | :---: |
-| ![Swagger UI](assets/1.jpeg) | ![H2 Database](assets/2.jpeg) |
+| ![Swagger UI](assets/2.jpeg) | ![H2 Database](assets/1.jpeg) |
 
 > **Note:** The screenshots above demonstrate the API in action (left) and the real-time data persistence in the H2 database (right), including sample data like "Mechanical Keyboard" and "Gaming Mouse."
 
